@@ -1,10 +1,9 @@
 The shutdown-command has different images and messages, depending on if Andre_601 is using the command or not.
-The bot has 32 Commands. (11 in Fun, 9 in Info, 3 in NSFW, 3 in Guild and 6 in a not seen category)
-GitHub literally saved this bot. Without it, the code would be gone!
+The bot has 35 Commands. (12 in Fun, 10 in Info, 4 in NSFW, 3 in Guild and 6 in a not seen category)
+GitHub saved this bot twice from being completely erased.
 It took Andre_601 multiple tries and the help of 4 different devs, to get the Info-command working correctly in DM.
 The Bot is used on the official nekos.life Discord.
-Some code of the Bot is inspired by other bots (PowerSuggestion, FlareBot, NekoBeta) and a Spigot-plugin (DiscordSRV)
+A lot of the code is inspired by other bots.
 The bot actually converts the verification levels "high" and "very_high" into their corresponding image (`(╯°□°）╯︵ ┻━┻` and `┻━┻ ミ ヽ(ಠ益ಠ)ﾉ 彡 ┻━┻`)
-When Andre_601 wouldn't be that lazy, then the version would be much higher
 This is actually just a random message... because why not :P
 You can vote for the bot at [discordbots.org](https://discordbots.org/bot/425382319449309197)
